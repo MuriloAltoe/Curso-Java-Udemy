@@ -11,8 +11,8 @@ public class Exercicicos {
     public static void main(String[] args) {
         System.out.println("hello word");
         
-        ex1 x = new ex1();
+        ex5 x = new ex5();
         
-        x.ex1();
+        x.ex5();
     }
 }
