@@ -10,11 +10,11 @@ public class Main {
 //        ex1 ex1 = new ex1();
 //        ex1.ex();
 
-//        ex2 ex2 = new ex2();
-//        ex2.ex();
+        ex2 ex2 = new ex2();
+        ex2.ex();
 
-        ex3 ex3 = new ex3();
-        ex3.ex();
+//        ex3 ex3 = new ex3();
+//        ex3.ex();
 
 
 
